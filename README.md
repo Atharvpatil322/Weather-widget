@@ -46,3 +46,13 @@ Weather Widget is a simple React application that displays weather information f
 - This project was bootstrapped with [Vite](https://vitejs.dev/).
 - UI components are built using [Material-UI](https://material-ui.com/).
 
+## Demo 
+
+https://github.com/Atharvpatil322/Weather-widget/assets/127306088/a701ad62-f115-4a2c-8e9e-033e6e3e646f
+
+![Screenshot 2024-04-14 211640](https://github.com/Atharvpatil322/Weather-widget/assets/127306088/dbb74430-cf75-4579-9826-7c39239136f8)
+![Screenshot 2024-04-14 211659](https://github.com/Atharvpatil322/Weather-widget/assets/127306088/0d7f598f-62bd-42e4-9620-d42b372b272d)
+![Screenshot 2024-04-14 211825](https://github.com/Atharvpatil322/Weather-widget/assets/127306088/3b49028f-36f2-4fb2-b334-4f21a2643f4c)
+![Screenshot 2024-04-14 211940](https://github.com/Atharvpatil322/Weather-widget/assets/127306088/9711ae51-756b-4c8d-b4c5-a7d512946a0f)
+
+
