@@ -1,0 +1,16 @@
+.SearchBox{
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+
+  .SearchBox form Button {
+    background-color: #1976d2;
+    color: white;
+  }
+  
+  .SearchBox form Button:hover {
+    background-color: #1565c0;
+  }
+  
+  
